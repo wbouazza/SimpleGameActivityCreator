@@ -19,13 +19,14 @@ This simple game part generator allows you to create, edit, and organize activit
 Export and Save
 - Save Changes : Save modifications to a new XML file with "Save XML".
 
-##Instructions
+## Instructions
 Loading : Click "Load XML" to import an XML file. The tree view displays the tags and their attributes.
 Editing : Double-click a tag to open a window for editing the tag and its attributes.
 Deleting : Select a tag and click "Delete Selected" to remove it.
 Reordering : Click and hold to move an element within the tree view.
 Exporting : Save your modifications to an XML file with "Save XML".
-Version Information
+
+## Version Information
 This is version 0.1 of the Simple Game Part Generator, currently in testing. It is developed by Wassim BOUAZZA (wassim.bouazza@univ-nantes.fr).
 
 ## License
